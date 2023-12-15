@@ -1,0 +1,18 @@
+
+#name{font-family: 'Cookie', cursive;font-size:7rem;font-weight: 600;color:#7d00b3;}
+#teacher{font-family: 'Roboto', sans-serif;font-size: 2rem;}
+#introduction{background-image:url(./img/hero3.png);height: 100vh;}
+.introtext{display: flex;height: 100vh;align-items: center;justify-content: center;}
+#huyen{height: 200px;border-radius: 50%;}
+
+h2{font-family: 'Roboto', sans-serif;font-size: 2rem;color:#7d00b3;}
+p{font-family: 'Libre Baskerville', serif;font-size:1rem;color:#7d00b3}
+.btn-purple{font-size:20px;border-radius: 10px;}
+.btn{background-color: #7d00b3;color:white;font-family:'Roboto', sans-serif;}
+#projects{background-color: #ebdcfd;}
+
+#aboutme{background: linear-gradient(to right,#f4ebfe,#e7d3fd,#dec4fc, #dabcfc);}
+#footer{background: linear-gradient(to right,#f4ebfe,#e7d3fd,#dec4fc, #dabcfc);}
+
+
+
